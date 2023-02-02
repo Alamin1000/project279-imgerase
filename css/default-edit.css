@@ -281,3 +281,8 @@
     height: 38px;   /* Height of image */
     color: transparent;
 }
+
+
+.beforeAfter img {
+    max-width: initial;
+}
